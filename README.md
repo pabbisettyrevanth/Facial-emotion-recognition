@@ -1,2 +1,2 @@
 # Facial-emotion-recognition
-The main objective of this project is to determine the facial expressions of different images of people. 
+The main objective of this project is to determine the facial expressions of different images of people. The image will be classified based on the given parameters such as  Happy, sad, disgust, angry etc. By using Deep Learning models I have predicted the different emotions with the best possible accuracy by using CNN and VGG16 models respectivley. Here we used CNN and VGG16 models because these models are used for Object detection and Image classification purpose . 
